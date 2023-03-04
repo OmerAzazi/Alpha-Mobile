@@ -1,0 +1,6 @@
+@include('home.header')
+@include('home.slider')
+@include('home.why')      
+@include('home.arrival')
+@include('home.product')
+@include('home.footer')
